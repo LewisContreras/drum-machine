@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}#wrapper{background-color:#97973e;width:100vw;height:100vh;display:flex;justify-content:center;align-items:center}#drum-machine{height:250px;width:250px;background-color:#d3d3d3;text-align:center;border-radius:20%}#drums-container{display:flex;flex-wrap:wrap;justify-content:center;align-items:center}.drum-pad{background-color:#708090;display:inline-block;width:30%;margin:2px;padding:16px;border-radius:20%;cursor:pointer}
+/*# sourceMappingURL=main.9af25d68.chunk.css.map */
